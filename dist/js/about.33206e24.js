@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,a){"use strict";a.r(e);var n=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},s=[function(){var t=this,e=t.$createElement,a=t._self._c||e;return a("div",{staticClass:"about"},[a("h1",[t._v("About")]),a("p",[t._v("This is the Todolist App V1.0.0. it is part of bla bla bla")])])}],l=a("2877"),i={},o=Object(l["a"])(i,n,s,!1,null,null,null);e["default"]=o.exports}}]);
+//# sourceMappingURL=about.33206e24.js.map
